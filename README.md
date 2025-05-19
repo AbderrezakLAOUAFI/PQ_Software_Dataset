@@ -6,9 +6,13 @@ The integration of renewable energy sources and the emergence of many innovative
 Keywords [1]: Smart grid; Power quality disturbances; Open data; Pattern recognition; Artificial intelligence
 
 AutRecPQ.mlappinstall: An app installation file to share my application with MATLAB users. 
+
 PQDs_Dataset_1_24.xlsx: Excel file containing signals related to C1-C24 (class 1 to class 24). 
+
 PQDs_Dataset_25_48.xlsx: Excel file containing signals related to C25-C48. 
+
 PQDs_Dataset_49_72.xlsx: Excel file containing signals related to C49-C72. 
 
 Reference 
+
 [1] Abderrezak Laouafi, Towards efficient solutions for automatic recognition of complex power quality disturbances, Expert Systems with Applications, Volume 286, 2025, 128077, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2025.128077.
