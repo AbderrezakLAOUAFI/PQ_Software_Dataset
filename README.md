@@ -18,4 +18,5 @@ Reference
 [1] Abderrezak Laouafi, Towards efficient solutions for automatic recognition of complex power quality disturbances, Expert Systems with Applications, Volume 286, 2025, 128077, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2025.128077.
 
 Cite As
+
 Abderrezak Laouafi, Data & materials for: Towards efficient solutions for automatic recognition of complex power quality disturbances, 2025, https://github.com/AbderrezakLAOUAFI/PQ_Software_Dataset.
